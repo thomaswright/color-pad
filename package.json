@@ -41,7 +41,7 @@
     "react",
     "reactjs",
     "color",
-    "colorpicker",
+    "colorpicker"
   ],
   "author": "Thomas Wright <contact@unclesoup.com>",
   "license": "MIT"
