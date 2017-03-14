@@ -1,15 +1,5 @@
 import React from 'react'
 import {render} from 'react-dom'
-
-import Component from '../../src'
-
-let Demo = React.createClass({
-  render() {
-    return <div>
-      <h1>color-pad Demo</h1>
-      <Component/>
-    </div>
-  }
-})
+import Demo from './Demo'
 
 render(<Demo/>, document.querySelector('#demo'))
